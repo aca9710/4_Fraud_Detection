@@ -107,20 +107,3 @@ print(classification_report(y_test, y_pred))
 
 
 
-#Gracias por crear este hackathon,me ha servido mucho ya que hasta hace 
-#unos dias no tenia ningun interes por profundizar en los fundamentos de la 
-#inteligencia artificial.
-#Desde el dia 26/07 ha pasado a ser mi principal tema de estudio y me he 
-#visto obligado a buscar documentacion y superarme.
-
-#Material de internet consultado
-#https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc
-#https://medium.com/@priyankads/beyond-accuracy-recall-precision-f1-score-roc-auc-6ef2ce097966
-#https://blog.floydhub.com/a-pirates-guide-to-accuracy-precision-recall-and-other-scores/
-#https://inside-machinelearning.com/en/recall-precision-f1-score-simple-metric-explanation-machine-learning/
-#https://runebook.dev/es/docs/scikit_learn/modules/generated/sklearn.metrics.average_precision_score
-#
-
-
-
-
