@@ -3,7 +3,6 @@
 """
 Created on Sat Jul 29 00:27:04 2023
 
-@author: Arturo Castillo Alpizar
 """
 
 import seaborn as sns
